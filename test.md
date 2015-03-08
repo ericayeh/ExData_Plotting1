@@ -22,9 +22,11 @@ for the assignment.</li>
 Running the codes in RStudio using the <b>source("plot(1-4).R"</b> method will produce some errors and
 warnings. However, it works fine in R but will produce some warning messages that do not affect the 
 results. 
+
 For the code to work in RStudio, you will need to remove "method="wget"" from the command below: 
 download.file(url, destfile="./data/zip_file.zip", mode="wb", method="wget")
 This will work for the first 3 plots but will produce "Error in plot.new() : figure margins too large"
-for the 4th plot. 
+for the 4th plot.
+
 Please when using RStudio, remember to clear all plots by clicking on the "Clear All" option.
 I am not sure why the codes work differently depending the tool used.
