@@ -1,4 +1,4 @@
-## Instructions on how to run the R codes for plotting "plot1-4.png"
+### Instructions on how to run the R codes for plotting "plot1-4.png"
 
 <ol>
 <li>The R codes <b>plot(1-4).R</b> when ran, will first create a "data" folder in your
@@ -12,7 +12,6 @@ for the assignment.</li>
 
 
 <b>Notes:</b> 
-
 Running the codes in RStudio using the <b>source("plot(1-4).R"</b> method will produce some errors and
 warnings. However, it works fine in R but will produce some warning messages that do not affect the 
 results. 
