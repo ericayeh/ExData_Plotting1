@@ -19,6 +19,7 @@ for the assignment.</li>
 
 
 <b>Notes:</b> 
+
 Running the codes in RStudio using the <b>source("plot(1-4).R"</b> method will produce some errors and
 warnings. However, it works fine in R but will produce some warning messages that do not affect the 
 results. 
